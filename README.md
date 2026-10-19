@@ -38,6 +38,8 @@ AI에게 세법을 물으면 그럴듯한 답이 나오지만, 실무에서 그�
 ```
 tax-qa-assistant/
 ├── README.md
+├── CLAUDE.md                       # Claude Code 작업 규칙 (데이터 무결성)
+├── .gitignore                      # Git 제외 파일 목록
 ├── prompts/
 │   └── tax-assistant-prompt.md     # 도우미 프로젝트 지침 (5단계 검증 절차 + 답변 형식)
 ├── evaluation/
