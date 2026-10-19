@@ -127,8 +127,4 @@ tax-qa-assistant/
 4. [채점 기준](evaluation/methodology.md#4-채점-기준)에 따라 `results.csv`에 기록합니다.
 5. `python evaluation/summarize.py`를 실행해 요약표를 만듭니다.
 
-## 만든 사람
 
-- 공인회계사 1차 시험 합격, 2차 세법 과목 합격 점수 취득
-- 전산세무 2급, 재경관리사, 회계관리 1급 보유
-- 세법 지식을 바탕으로 AI 답변의 정확도를 검증하고, 검증 가능한 AI 활용 방식을 설계하는 데 관심이 있습니다.
